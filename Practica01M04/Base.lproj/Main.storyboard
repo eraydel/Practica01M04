@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Módulo 4-->
+        <!--Módulo 5-->
         <scene sceneID="AcM-X5-HuY">
             <objects>
                 <viewController id="Uj8-Kn-cgq" sceneMemberID="viewController">
@@ -27,7 +27,7 @@
                         <viewLayoutGuide key="safeArea" id="VNp-8k-sMb"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Módulo 4" image="magazine" catalog="system" id="SG2-HN-13U"/>
+                    <tabBarItem key="tabBarItem" title="Módulo 5" image="magazine" catalog="system" id="SG2-HN-13U"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jwe-sm-rVa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
